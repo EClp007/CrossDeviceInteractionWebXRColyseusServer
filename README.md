@@ -1,6 +1,8 @@
-# Welcome to Colyseus!
+# Welcome to the Colyseus Cross-Device Interaction WebXR Server!
 
-This project has been created using [⚔️ `create-colyseus-app`](https://github.com/colyseus/create-colyseus-app/) - an npm init template for kick starting a Colyseus project in TypeScript.
+This project is a Colyseus server designed to facilitate cross-device interaction, developed as part of the **Cross-Device Interaction WebXR** exploration. It was bootstrapped using [⚔️ `create-colyseus-app`](https://github.com/colyseus/create-colyseus-app/), an npm template for kick-starting Colyseus projects in TypeScript.
+
+[Colyseus Documentation](http://docs.colyseus.io/)
 
 [Documentation](http://docs.colyseus.io/)
 
